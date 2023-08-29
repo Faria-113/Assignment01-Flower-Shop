@@ -150,7 +150,7 @@ header img{
     display: flex;
     background-color: rgba(229, 84, 115, 0.1);
     padding: 100px 429px 100px 395px;
-    justify-content: space-between;
+    justify-content: space-evenly;
     margin: 128px 0;
 }
 
