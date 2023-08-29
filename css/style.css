@@ -198,4 +198,31 @@ header img{
 }
 
 
-/*  */
+/* LATEST DEALS STYLES */
+.latest-deals{
+    margin: 128px 240px;
+    padding: 122px 287px 121px;
+    background: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.latest-deals-text{
+    text-align: center;
+}
+
+.latest-deals-text input{
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 47px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 22px;
+}
