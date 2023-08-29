@@ -119,3 +119,27 @@ header img{
     text-decoration-line: underline;
     margin-top: 32px;
 }
+
+
+/* SERVICE STYLES */
+.service{
+    margin: 0 240px;
+    padding: 86px 175px 87px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(39, 39, 39, 0.05);
+}
+
+.service-info{
+    text-align: center;
+}
+
+.service-info p{
+    color: rgba(39, 39, 39, 0.80);
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 24px;
+}
